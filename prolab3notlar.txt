@@ -1,0 +1,35 @@
+PROJE MANTIGI 
+
+JAVA OGRENILECEK KAVRAMLAR 
+encapsulation -> setter getter  
+inhertance  -> extends 
+polymorphism -> birden fazla constructor kullanma 
+abstraction BILMEDIGIM OZELLIK
+
+NOTLAR
+
+SORULAR 
+
+!!!HOCAYA SORULACAKLAR 
+	nesneyi olustuturken constructorların onemi varmı set get metodlarını yazmamız gerekecek mi
+	koordinat sisteminin farklı olması sıkıntı olurmu
+	!!!rapora gore paralel den once seri olusturulamaz cunku serinin ozellikleri paralele gore kontrol ediliyor 
+	!!!seri en gucsuz paralelden mi gucsuz  olmalı yoksa en guclu parelelden mi gucsuz olmalı
+	!!!manipulator robotlarda engellerden bahsedilmemiş onlar ıcınde engeller varmı
+	!!!hareketten maniplatorde gecerken bir sabitlenme suresi olacak bu sureyi biz mi atayacağız yoksa hesaplayacakmıyız
+	!!!hareketten maniplatorde engel gecme suresi icin neyi baz alacagız 
+
+
+Override boyle yapılıyor 
+	class Parent 
+	{ 
+	    void show() { System.out.println("Parent's show()"); } 
+	} 
+	  
+	// Inherited class 
+	class Child extends Parent  
+	{ 
+	    // This method overrides show() of Parent 
+	    @Override
+	    void show() { System.out.println("Child's show()"); } 
+	}

@@ -1,0 +1,37 @@
+   private boolean[][] masks = {
+       {false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false},
+       {false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false},
+       {false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false},
+       {false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false},
+       {false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false},
+       {false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false},
+       {false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false},
+       {false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false},
+       {false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false},
+       {false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false},
+       {false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false},
+       {false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false},
+       {false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false},
+       {false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false},
+       {false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false},
+       {false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false},
+       {false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false},
+       {false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false},
+       {false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false},
+       {false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false},
+       
+       };
+
+
+private boolean[][] masks = {
+      {false, false, false, false, false, false, false, false, false, false},
+      {false, false, false, false, false, false, false, false, false, false},
+      {false, false, false, false, false, false, false, false, false, false},
+      {false, false, false, false, false, false, false, false, false, false},
+      {false, false, false, false, false, false, false, false, false, false},
+      {false, false, false, false, false, false, false, false, false, false},
+      {false, false, false, false, false, false, false, false, false, false},
+      {false, false, false, false, false, false, false, false, false, false},
+      {false, false, false, false, false, false, false, false, false, false},
+      {false, false, false, false, false, false, false, false, false, false}
+      };
